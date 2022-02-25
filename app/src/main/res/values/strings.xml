@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyRecipesV1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Create</string>
+    <string name="menu_slideshow">Inspire</string>
+    <string name="welcome_to_my_recipes">Welcome to My Recipes!</string>
+    <string name="enter_new_recipe">Enter New Recipe</string>
+    <string name="get_inspired">Get Inspired!</string>
+    <string name="view_recipes">View Recipes</string>
+    <string name="next">next</string>
+    <string name="my_kitchen_version_1">My Recipes Version 1</string>
+    <string name="_2021_taggart_elliott">2021 Taggart Elliott</string>
+    <string name="create">Create</string>
+    <string name="view">View</string>
+    <string name="made_by_yours_truly">Made By Yours Truly</string>
+    <string name="title">Title</string>
+    <string name="fryingpan">FryingPan</string>
+    <string name="bon_appetit">Bon Appetit!</string>
+    <string name="inspire">Inspire</string>
+    <string name="instructions">Instructions</string>
+
+</resources>

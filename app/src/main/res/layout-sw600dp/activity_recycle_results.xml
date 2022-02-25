@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/kitchenbackground"
+    tools:context=".RecycleResults">
+
+    <TextView
+        android:id="@+id/ingredients"
+        android:layout_width="805dp"
+        android:layout_height="496dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginEnd="35dp"
+        android:background="@color/white"
+        android:backgroundTint="#80FFFFFF"
+        android:fontFamily="@font/baloo"
+        android:scrollbars="vertical"
+        android:textColor="@color/black"
+        android:textSize="@dimen/largeressz"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.172" />
+
+    <TextView
+        android:id="@+id/steps"
+        android:layout_width="804dp"
+        android:layout_height="724dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginEnd="35dp"
+        android:background="@color/white"
+        android:backgroundTint="#80FFFFFF"
+        android:fontFamily="@font/baloo"
+        android:scrollbars="vertical"
+        android:textColor="@color/black"
+        android:textSize="@dimen/largeressz"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.863" />
+
+    <TextView
+        android:id="@+id/bonappetit"
+        android:layout_width="356dp"
+        android:layout_height="84dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="@string/bon_appetit"
+        android:textSize="@dimen/largeressz"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.984" />
+</androidx.constraintlayout.widget.ConstraintLayout>

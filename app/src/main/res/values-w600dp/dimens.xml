@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">48dp</dimen>
+    <dimen name="largeressz">60sp</dimen>
+    <dimen name="supersizettl">100sp</dimen>
+</resources>
